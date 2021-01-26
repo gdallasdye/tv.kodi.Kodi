@@ -136,7 +136,6 @@ modules:
   - deps/rapidxml.json
   - deps/simplejson.json
   - deps/tinyxml2.json
-  - addons/audiodecoder.2sf.json
   - addons/audiodecoder.asap.json
   - addons/audiodecoder.dumb.json
   - addons/audiodecoder.fluidsynth.json
@@ -153,7 +152,6 @@ modules:
   - addons/audiodecoder.stsound.json
   - addons/audiodecoder.timidity.json
   - addons/audiodecoder.upse.json
-  - addons/audiodecoder.usf.json
   - addons/audiodecoder.vgmstream.json
   - addons/audiodecoder.wsr.json
   - addons/audioencoder.flac.json
@@ -172,7 +170,6 @@ modules:
   - addons/pvr.dvbviewer.json
   - addons/pvr.filmon.json
   - addons/pvr.hts.json
-  - addons/pvr.iptvsimple.json
   - addons/pvr.mediaportal.tvserver.json
   - addons/pvr.mythtv.json
   - addons/pvr.nextpvr.json
